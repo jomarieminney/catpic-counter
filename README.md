@@ -1,4 +1,4 @@
-# co78c47c19d6630eb7e6b4797
+# Jo's Cat Pic Counter
 
 ## About Scrimba
 
